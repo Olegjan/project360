@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: a8f2718fd905db4408baba8ce7490313
+  - enabled: 0
+    path: Assets/FibrumSDK/Scenes/2 - NewGUI_demo.unity
+    guid: 4e42043669f1faf499a430627ae34313
+  - enabled: 1
+    path: Assets/WithButton.unity
+    guid: 515c79cce86bf9b42b17b4df5cb574ae
   m_configObjects: {}
